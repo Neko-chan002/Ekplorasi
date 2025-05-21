@@ -1,0 +1,14 @@
+nama : samsan 
+ni : 234260020
+
+ Ekplorasi Fitur "Import repository" di GitHub
+Fitur "Import repository" di GitHub digunakan untuk menyalin seluruh isi dan riwayat commit dari repository yang ada di platform lain (misal GitLab, Bitbucket, atau GitHub lain) ke akun GitHub Anda. Berikut langkah-langkahnya:
+Langkah-langkah Import Repository di GitHub:
+  1.Masuk ke akun GitHub.
+  2.Di pojok kanan atas halaman GitHub, klik ikon "+" lalu pilih Import repository.
+  3.nah diarahkan ke halaman "Import your project to GitHub".
+  4.Masukkan URL repository yang ingin diimpor pada kolom yang tersedia. URL ini bisa dari GitHub lain, GitLab, Bitbucket, atau layanan git lain yang mendukung akses HTTP/HTTPS.
+  5.Jika repository sumber bersifat privat, masukkan username dan password/token akses yang diminta.
+  6.Pilih nama repository baru di GitHub dan tentukan visibilitasnya (public/private).
+  7.Klik Begin import untuk memulai proses impor.
+Setelah itu, GitHub akan menyalin seluruh isi dan riwayat repository ke repository baru. nanti akan menerima email setelah proses impor selesai, dan repository baru siap digunakan di akun GitHub
